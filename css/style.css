@@ -1,0 +1,9 @@
+body{
+    padding-top: 1em;
+    padding-bottom:1em;
+    background: rgb(0, 0, 66);
+}
+
+p {
+    color: red;
+  }
